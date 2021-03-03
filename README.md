@@ -16,4 +16,5 @@ Este repositorio contiene las tareas realizadas para cada uno de los seminarios 
 
 ## Índice
 
-* [DCU](https://github.com/alu0101254678/uya-2021-SeminarioDCU.git) (se encuentra en otro repositorio).
+* [Seminario 1](https://github.com/alu0101254678/uya-2021-SeminarioDCU.git) (DCU, se encuentra en otro repositorio).
+* [Seminario 2](Seminario_2/) (Uso de la web por personas con disfuncionalidad).
