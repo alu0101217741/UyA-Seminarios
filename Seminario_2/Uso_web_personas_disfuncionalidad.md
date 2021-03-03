@@ -13,3 +13,5 @@ a las tecnologías actuales (*última versión actualizada: 2014*), no permite l
 las detecta y ocasiona al usuario una gran pérdida de información.
 
 Por tanto, estas herramientas hacen que las búsquedas sean lentas y complejas, provocando que el usuario nunca esté seguro de que vaya a encontrar lo que desea.
+
+Si desea ver un video del uso de estas herramientas, haga clic [aquí](https://drive.google.com/file/d/1VFRffYj_5kTIteNseVDNIILfRIcaDy2d/view?usp=sharing)
