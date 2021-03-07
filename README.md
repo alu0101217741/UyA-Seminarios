@@ -12,7 +12,7 @@
 
 ## Descripción
 
-Este repositorio contiene las tareas realizadas para cada uno de los seminarios de la asignatura de Usabilidad y Accesibilidad.
+Este repositorio contiene las tareas realizadas para cada uno de los seminarios de la asignatura de Usabilidad y Accesibilidad. Para ver las prácticas que se han hecho, acceder a otro repositorio haciendo clic [aquí](https://github.com/alu0101217741/UyA-Practicas.git).
 
 ## Índice
 
