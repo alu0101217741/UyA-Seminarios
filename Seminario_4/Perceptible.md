@@ -16,4 +16,9 @@ El objetivo de esta técnica es proporcionar una forma para que las personas sor
 
 Para acceder al vídeo de ejemplo pulse [aquí](https://www.youtube.com/watch?v=MFxm4fCCSPc).
 
+### 2. Proporcionar subtítulos ocultos
+
+El objetivo de esta técnica es proporcionar una forma para que las personas que tienen deficiencias auditivas o que tienen problemas para escuchar el diálogo en material multimedia sincronizado puedan ver el material, el diálogo y los sonidos, sin requerir que las personas que no son sordas lo vean. Con esta técnica, todos los diálogos y sonidos importantes se incrustan como texto de una manera que hace que el texto no sea visible a menos que el usuario lo solicite. Como resultado, solo son visibles cuando se necesitan. Esto requiere un soporte especial para los subtítulos en el agente de usuario.
+
+Para acceder al vídeo de ejemplo pulse [aquí](https://www.youtube.com/watch?v=hzmbCSHcSts).
 
