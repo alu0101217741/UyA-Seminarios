@@ -20,3 +20,4 @@ Este repositorio contiene las tareas realizadas para cada uno de los seminarios 
 * [Seminario 2](Seminario_2/) (Uso de la web por personas con disfuncionalidad).
 * [Seminario 3](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_3/Legislaci%C3%B3n%20Accesibilidad%20-%20Grupo%209.png) (Legislación Accesibilidad)
 * [Seminario 4](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_4/Perceptible.md) (Perceptible)
+* [Seminario 5](https://github.com/alu0101217741/UyA-Seminarios/tree/main/Seminario_5) (Perceptible Operable)
