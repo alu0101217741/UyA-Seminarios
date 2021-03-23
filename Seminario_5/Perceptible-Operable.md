@@ -32,11 +32,12 @@ El mapa del sitio tiene varios propósitos:
 
 * Ofrece una alternativa a las complejas barras de navegación que pueden ser diferentes en distintas partes del sitio.
 
-#### 4. Proporcionar una función de búsqueda para ayudar a los usuarios a encontrar contenido
+### 4. Proporcionar una función de búsqueda para ayudar a los usuarios a encontrar contenido
 
 Proporcionar una función de búsqueda que busque sus páginas web es una estrategia de diseño que ofrece a los usuarios una forma de encontrar contenido. Los usuarios pueden localizar contenido buscando palabras o frases específicas, sin necesidad de comprender o navegar a través de la estructura del sitio web.
 
 ### Tabla con ejemplos de los criterios:
+![Tabla-Operable](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_5/img/Tabla-Operable.png?raw=true)
 
 
 
