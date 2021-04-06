@@ -13,7 +13,7 @@ Existen dos situaciones a considerar:
 
 * **G83: Proporcionar descripciones de texto para identificar los campos obligatorios que no se completaron.**
 
-El objetivo de esta técnica es notificar al usuario cuando no se ha completado un campo que debe completar. Cuando los usuarios no proporcionan información para los campos obligatorios del formulario, la información se proporciona en texto para permitir a los usuarios identificar qué campos se omitieron.
+El objetivo de esta técnica es notificar al usuario cuando no se ha rellenado un campo que debe completar. Cuando los usuarios no proporcionan información para los campos obligatorios del formulario, la información se proporciona en texto para permitir a los usuarios identificar qué campos se omitieron.
 
 * **SCR18: Proporcionar validación y alerta del lado del cliente.**
 
@@ -34,4 +34,13 @@ El propósito de esta técnica es alertar a las personas de que se ha producido 
   - El cuadro de diálogo de alerta contiene al menos un control enfocable, y el foco debe moverse a ese control cuando se abre el cuadro de diálogo de alerta.
   - El orden de las pestañas está restringido dentro del cuadro de diálogo de alerta mientras está abierto.
 Cuando se cierra el cuadro de diálogo, el foco vuelve a la posición que tenía antes de que se abriera el cuadro de diálogo, si es posible.
+
+### Tabla con ejemplos de los criterios:
+![Tabla-G83](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_6/img/g83.png?raw=true)
+![Tabla-SRC-18-1](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_6/img/src18_1.png?raw=true)
+![Tabla-SRC-18-2](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_6/img/src18_2.png?raw=true)
+![Tabla-G85](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_6/img/g85.png?raw=true)
+![Tabla-Aria-18-1](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_6/img/aria18_1.png?raw=true)
+![Tabla-Aria-18-2](https://github.com/alu0101217741/UyA-Seminarios/blob/main/Seminario_6/img/aria18_2.png?raw=true)
+
 
